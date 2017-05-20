@@ -17,7 +17,7 @@ A replica of the iOS/MacOS Calculator
 
     ![Alt text](https://github.com/JonathanEsposito/Calculator/blob/master/ReadMeResources/operationAndParenthesisPriorities.gif?raw=true)
     
-* landscape scientific layout < | > portrait basic layout
+* landscape scientific layout versus portrait basic layout
 * handle user input errors
 
-* More documentation to come...
+* And more...
