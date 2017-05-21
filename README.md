@@ -1,5 +1,5 @@
 # Calculator
-A replica of the iOS/MacOS Calculator
+An imitation of the iOS/MacOS Calculator
 
 ## Scope of the project:
 * unary operations
